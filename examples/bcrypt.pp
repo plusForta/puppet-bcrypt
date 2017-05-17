@@ -1,3 +1,5 @@
+include bcrypt
+
 $plaintext = 'foobar'
 $bcryptpasswd = bcrypt($plaintext)
 
