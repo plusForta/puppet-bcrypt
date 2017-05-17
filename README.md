@@ -12,7 +12,7 @@ bcrypt-ruby - Ruby bcrypt module
 Apache 2.0 - http://www.apache.org/licenses/LICENSE-2.0.txt
 
 # Contact
-Nathan Valentine - nathan@puppetlabs.com|nrvale0@gmail.com
+Nathan Valentine - nrvale00@gmail.com
 
 # Support
 https://github.com/nrvale0/puppet-bcrypt
