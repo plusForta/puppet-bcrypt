@@ -1,7 +1,0 @@
-name    'nrvale0-bcrypt'
-version '1.0.1'
-source 'https://github.com/nrvale0/puppet-bcrypt'
-author 'Nathan Valentine'
-license 'Apache License, Version 2.0'
-summary 'function for generating bcrypt hashes'
-description 'function for generating bcrypt hashes'
