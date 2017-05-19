@@ -1,6 +1,6 @@
 {
     "name":    "nrvale0-bcrypt",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "source": "https://github.com/nrvale0/puppet-bcrypt",
     "author": "Nathan Valentine",
     "license": "Apache-2.0",
