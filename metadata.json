@@ -6,5 +6,7 @@
     "license": "Apache-2.0",
     "summary": "function for generating bcrypt hashes",
     "description": "function for generating bcrypt hashes",
-    "dependencies": []
+    "dependencies": [
+        { "name": "puppetlabs/puppetserver_gem", "version_requirement": ">= 1.0.0"}
+    ]
 }

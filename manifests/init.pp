@@ -5,7 +5,7 @@ class bcrypt (
   if $manage_bcrypt {
     package { 'bcrypt':
       ensure   => 'installed',
-      provider => 'puppet_gem',
+      provider => 'puppetserver_gem',
     }
   }
 }
